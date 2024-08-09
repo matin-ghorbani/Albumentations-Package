@@ -1,0 +1,7 @@
+albumentations==1.4.2
+matplotlib==3.7.2
+numpy==2.0.1
+opencv_contrib_python==4.8.0.76
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+torch==2.0.1
